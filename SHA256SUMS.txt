@@ -1,0 +1,1 @@
+73ab3a330fd80a56b66fecdf02b861247aa78a9f722dc13adc416fbf7f6f1fc5  ShogiTournamentManager-v.0.2.0-beta-windows-x64.zip
